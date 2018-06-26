@@ -1,0 +1,19 @@
+.Login {
+    width: 50%;
+    text-align: center;
+    border: 5px solid purple;
+    width: 300px;
+    margin: 20px auto;
+
+}
+
+.Button {
+    text-align: center;
+    display: inline-block;
+    margin: 20px auto;
+}
+.Input {
+    text-align: center;
+    display: inline-block;
+    margin: 20px auto;
+}

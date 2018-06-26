@@ -1,0 +1,7 @@
+.Movie {
+    width: 50%;
+    text-align: center;
+    border: 5px solid darkblue;
+    width: 300px;
+    margin: 20px auto;
+}
